@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_ADT_CODICE_ESAME</ROLLNAME>
+    <DDLANGUAGE>I</DDLANGUAGE>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Codice esame</DDTEXT>
+    <REPTEXT>Codice esame</REPTEXT>
+    <SCRTEXT_S>Cod. Esame</SCRTEXT_S>
+    <SCRTEXT_M>Codice esame</SCRTEXT_M>
+    <SCRTEXT_L>Codice esame</SCRTEXT_L>
+    <DTELMASTER>I</DTELMASTER>
+    <DATATYPE>INT1</DATATYPE>
+    <LENG>000003</LENG>
+    <OUTPUTLEN>000003</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

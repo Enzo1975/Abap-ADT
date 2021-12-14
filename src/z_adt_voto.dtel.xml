@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_ADT_VOTO</ROLLNAME>
+    <DDLANGUAGE>I</DDLANGUAGE>
+    <DOMNAME>Z_ADT_VOTAZIONE</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Votazione finale esame</DDTEXT>
+    <REPTEXT>Voto finale</REPTEXT>
+    <SCRTEXT_S>Voto</SCRTEXT_S>
+    <SCRTEXT_M>Voto finale</SCRTEXT_M>
+    <SCRTEXT_L>Voto finale</SCRTEXT_L>
+    <DTELMASTER>I</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
